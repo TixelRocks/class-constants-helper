@@ -1,0 +1,26 @@
+{
+    "name": "tixelrocks/class-constants-helper",
+    "type": "library",
+    "description": "A tiny package that makes working with PHP class constants easier",
+    "keywords": ["php","constants","reflection"],
+    "homepage": "https://github.com/TixelRocks/class-constants-helper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Denis Mysenko",
+            "email": "denis@mysenko.com",
+            "homepage": "https://www.mysenko.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "files": [
+            "helpers/helpers.php"
+        ]
+    }
+}
