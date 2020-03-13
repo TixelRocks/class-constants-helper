@@ -1,4 +1,10 @@
 # class-constants-helper
+[![Build Status](https://travis-ci.org/tixelrocks/class-constants-helper.svg)](https://travis-ci.org/tixelrocks/class-constants-helper)
+[![Total Downloads](https://poser.pugx.org/tixelrocks/class-constants-helper/d/total.svg)](https://packagist.org/packages/tixelrocks/class-constants-helper)
+[![Latest Stable Version](https://poser.pugx.org/tixelrocks/class-constants-helper/v/stable.svg)](https://packagist.org/packages/tixelrocks/class-constants-helper)
+[![Latest Unstable Version](https://poser.pugx.org/tixelrocks/class-constants-helper/v/unstable.svg)](https://packagist.org/packages/tixelrocks/class-constants-helper)
+[![License](https://poser.pugx.org/tixelrocks/class-constants-helper/license.svg)](https://packagist.org/packages/tixelrocks/class-constants-helper)
+
 A tiny package that makes working with PHP class constants easier
 
 Have you ever noticed yourself doing stuff like this:
